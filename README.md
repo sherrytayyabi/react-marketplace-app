@@ -1,1 +1,1 @@
-Created a E-Commerce search and filtering system marketplace using React.js. Website has the ability to handle complex filtering scenarios such as; date ranges, multiple selection options, and price range filters.
+Created an E-Commerce search and filtering system marketplace using React.js. Website has the ability to handle complex filtering scenarios such as; date ranges, multiple selection options, and price range filters.
